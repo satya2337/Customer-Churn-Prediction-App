@@ -1,0 +1,18 @@
+# ML models
+*.h5
+*.pkl
+
+# TensorBoard logs
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Streamlit settings
+.streamlit/
